@@ -13,9 +13,7 @@ work to deliver productivity as well as a good quality of life for those develop
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/paulossaraujo/)
 
-------
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=paulossa.paulossa)
 
 <!--
 **paulossa/paulossa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
